@@ -6,5 +6,5 @@
 Feel free to explore the different repositories to see how my technical journey has progressed, and reach out if you have any questions!
 
 ## Contact
-If you have questions or are interested in working with me, please reach out via [LinkedIn](https://www.linkedin.com/in/jayalexanderelliot/) or email: [your-email@example.com](jay@elliotdevops.com).
+If you have questions or are interested in working with me, please reach out via [LinkedIn](https://www.linkedin.com/in/jayalexanderelliot/) or email: [jay@elliotdevops.com](jay@elliotdevops.com).
 
